@@ -1,0 +1,32 @@
+.main-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+.create {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+
+}
+
+.form-input {
+    padding: 5px;
+    margin: 15px;
+}
+
+.checkbox-wrapper {
+    display: flex;
+    align-items: center;
+
+}
+
+.tshirt-image{
+    max-height: 400px;
+    width: auto;
+}
